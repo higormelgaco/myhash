@@ -1,0 +1,2 @@
+# myhash
+Simple hash calculate
